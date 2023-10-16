@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1693561856 source:o:\mohab project\school management system\main.c
+	"header.h"
+
+1693560446 o:\mohab project\school management system\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1693561403 source:o:\mohab project\school management system\functions.c
+	"header.h"
+
+1693534035 source:o:\school management system\functions.c
+	"header.h"
+
+1693534035 o:\school management system\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1693561638 source:c:\users\hello\onedrive\desktop\school management system\main.c
+	"header.h"
+
+1693562401 c:\users\hello\onedrive\desktop\school management system\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1693565067 source:c:\users\hello\onedrive\desktop\school management system\functions.c
+	"header.h"
+
+1693565067 source:o:\courses\my projects\school management system\functions.c
+	"header.h"
+
+1693562401 o:\courses\my projects\school management system\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1693561638 source:o:\courses\my projects\school management system\main.c
+	"header.h"
+
